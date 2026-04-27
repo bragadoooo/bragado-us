@@ -29,3 +29,26 @@ h1 {
 .item img {
   width: 100%;
 }
+.top-header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.logo {
+  width: 180px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.menu a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+}
