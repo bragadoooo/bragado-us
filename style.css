@@ -55,3 +55,18 @@ h1 {
   font-weight: 500;
   font-size: 14px;
 }
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.logo {
+  width: 180px;
+}
+
+.menu-btn, .cart-btn {
+  font-size: 24px;
+  cursor: pointer;
+}
