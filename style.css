@@ -29,11 +29,12 @@ h1 {
 .item img {
   width: 100%;
 }
-.top-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px 20px;
+.logo {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 220px; 
+}
 }
 
 .logo {
