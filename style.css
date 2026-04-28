@@ -37,7 +37,7 @@ h1 {
 }
 
 .logo {
-  width: 250px;
+  width: 400px;
   max-width: none;
   height: auto;
   display: block;
@@ -57,18 +57,9 @@ h1 {
   text-decoration: none;
   color: black;
   font-weight: 500;
-  font-size: 14px;
-}
-.top-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px;
+  font-size: 30px;
 }
 
-.logo {
-  width: 180px;
-}
 
 .menu-btn, .cart-btn {
   font-size: 24px;
