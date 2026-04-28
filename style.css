@@ -16,7 +16,7 @@ header {
   padding: 10px 20px;
 
   position: relative;
-  height: 100px;
+  height: 120px;
 }
 h1 {
   font-style: italic;
@@ -42,8 +42,6 @@ h1 {
   transform: translateX(-50%);
   width: 600px; 
   max-width: none;
-
-
 
 }
 
@@ -154,4 +152,7 @@ h1 {
 }
 .menu-btn, .cart-btn {
   z-index: 2;
+}
+.grid {
+  margin-top: 40px;
 }
