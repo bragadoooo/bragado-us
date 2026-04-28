@@ -58,6 +58,14 @@ h1 {
   color: black;
   font-weight: 500;
   font-size: 30px;
+}.menu-btn {
+  position: absolute;
+  left: 20px;
+}
+
+.cart-btn {
+  position: absolute;
+  right: 20px;
 }
 
 
