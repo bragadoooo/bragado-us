@@ -33,17 +33,11 @@ h1 {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  width: 220px; 
-}
-}
-
-.logo {
-  width: 600px;
+  width: 600px; 
   max-width: none;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
+
+
+
 }
 
 .menu {
