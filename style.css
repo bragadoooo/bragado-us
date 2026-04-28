@@ -94,7 +94,7 @@ h1 {
 .side-menu {
   position: fixed;
   top: 0;
-  left: 0;
+  left: -250px;
   height: 100%;
   width: 75%;
   max-width: 320px;
